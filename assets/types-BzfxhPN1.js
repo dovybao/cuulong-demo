@@ -1,0 +1,1 @@
+var e=[`indigo`,`orange`,`green`,`blue`,`red`,`purple`,`teal`,`pink`,`gray`];export{e as t};

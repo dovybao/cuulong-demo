@@ -1,0 +1,1 @@
+function e(e){return e?e.normalize(`NFD`).replace(/\p{Diacritic}/gu,``).replace(/đ/g,`d`).replace(/Đ/g,`D`).toLowerCase().replace(/\s+/g,` `).trim():``}export{e as t};

@@ -1,0 +1,1 @@
+import{f as e}from"./states-DqkwS136.js";import{K as t}from"./index-Bd65a3er.js";function n(n){t.error(e(n))}function r(e){t.success(e)}export{r as n,n as t};
